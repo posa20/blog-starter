@@ -1,11 +1,11 @@
 ---
-header: 'About'
+header: 'About Us'
 title: 'We’re a colourful and passionate team'
 excerpt: 'Our mission is to bring businesses and customers together through our smart digital ‘automation-first’ approach.'
 coverImage: '/assets/stories/franck-v-rDxP1tF3CmA-unsplash.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: ''
 author:
-  name: Joe Haddad
+  name: 
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/stories/1960518.png'
